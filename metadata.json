@@ -1,0 +1,6 @@
+{
+  "name": "Bo Kosmak - Creative Engineer Portfolio",
+  "description": "Interactive portfolio and AI-powered CV for Bo Kosmak, featuring rich experience, modular skill showcase, custom cover letter generation, and an AI chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
